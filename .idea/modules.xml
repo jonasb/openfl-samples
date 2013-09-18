@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActuateExample/ActuateExample.iml" filepath="$PROJECT_DIR$/ActuateExample/ActuateExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AddingAnimation/AddingAnimation.iml" filepath="$PROJECT_DIR$/AddingAnimation/AddingAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AddingText/AddingText.iml" filepath="$PROJECT_DIR$/AddingText/AddingText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisplayingABitmap/DisplayingABitmap.iml" filepath="$PROJECT_DIR$/DisplayingABitmap/DisplayingABitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlingKeyboardEvents/HandlingKeyboardEvents.iml" filepath="$PROJECT_DIR$/HandlingKeyboardEvents/HandlingKeyboardEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlingMouseEvents/HandlingMouseEvents.iml" filepath="$PROJECT_DIR$/HandlingMouseEvents/HandlingMouseEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerokuShaders/HerokuShaders.iml" filepath="$PROJECT_DIR$/HerokuShaders/HerokuShaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PiratePig/PiratePig.iml" filepath="$PROJECT_DIR$/PiratePig/PiratePig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayingSound/PlayingSound.iml" filepath="$PROJECT_DIR$/PlayingSound/PlayingSound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleBox2D/SimpleBox2D.iml" filepath="$PROJECT_DIR$/SimpleBox2D/SimpleBox2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleOpenGLView/SimpleOpenGLView.iml" filepath="$PROJECT_DIR$/SimpleOpenGLView/SimpleOpenGLView.iml" />
+    </modules>
+  </component>
+</project>
+
